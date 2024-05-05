@@ -3,7 +3,7 @@ import { NextResponse } from "next/server";
 
 export async function POST(request) {
   const reqBody = await request.json();
-  const secret_key = 6LdZqdEpAAAAAP7eju4BO3kpYIpONZWRgBitl24H ;
+  const secret_key = "6LdZqdEpAAAAAP7eju4BO3kpYIpONZWRgBitl24H" ;
     // process.env.NEXT_PUBLIC_RECAPTCHA_SECRET_KEY;
 
   try {
