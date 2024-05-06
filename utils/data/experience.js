@@ -1,10 +1,11 @@
 export const experiences = [
-  // {
-  //   id: 1,
-  //   title: 'Software Engineer I',
-  //   company: "Teton Private Ltd.",
-  //   duration: "(Jan 2022 - Present)"
-  // },
+  {
+    id: 1,
+    title: 'Math Teacher',
+    company: "Narayana Group",
+    duration: "(Jul 2024 - Present)"
+  }
+  // ,
   // {
   //   id: 2,
   //   title: "FullStack Developer",
