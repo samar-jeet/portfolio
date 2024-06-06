@@ -5,7 +5,8 @@
 
 # Demo :movie_camera:
 
-![]![Uploading Screenshot 2024-06-06 at 8.51.20 PM.png…]()
+![]<img width="1289" alt="Screenshot 2024-06-06 at 8 51 20 PM" src="https://github.com/samar-jeet/portfolio/assets/81514487/9b580727-0414-4422-a23a-8169ffd5eeb4">
+
 
 
 ## View live preview [here](https://samarjeet.netlify.app/).
