@@ -5,9 +5,10 @@
 
 # Demo :movie_camera:
 
-![](./public/image/screen.png)
+![]![Uploading Screenshot 2024-06-06 at 8.51.20 PM.png…]()
 
-## View live preview [here](https://abusaid.netlify.app/).
+
+## View live preview [here](https://samarjeet.netlify.app/).
 
 ---
 
